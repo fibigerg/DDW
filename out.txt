@@ -1,0 +1,73 @@
+Title:
+   -  Management | MgC Group
+
+
+Headlines:
+    H1:
+       -  Management
+    H2:
+       -  ANALYSIS of potential
+       -  BASIC program:
+       -  ADDITIONAL program:
+       -  IMPLEMENTATION in practice / ON-THE-JOB methods
+    H3:
+    H4:
+
+
+Nouns ( 94 ):
+   9 	Management
+   4 	Communication
+   4 	Managers
+   3 	program
+   2 	Shadowing
+   2 	Team
+   2 	Coaching
+   2 	Skills
+   2 	Delegation
+   1 	MgC
+   1 	Different
+   1 	managers
+   1 	Working
+   1 	Managing
+   1 	Time
+   1 	topics
+   1 	Rhetoric
+   1 	Workshops
+   1 	Basics
+   1 	Psychology
+   1 	Screening
+   1 	BASIC
+   1 	Remote
+   1 	Assessment
+   1 	methods
+
+
+Links ( 25 ):
+   -  #main-content                                                          Skip to main content
+   -  /en                                                                    
+          
+   -  /en/automotive-industry                                                automotive
+   -  /en/assessment-and-development-centres                                 ac/dc
+   -  /en/back-office                                                        Back office
+   -  /en/coaching                                                           Coaching
+   -  /en/human-resources                                                    Human resources
+   -  /en/customer-services                                                  Customer services
+   -  /en/house-trainers                                                     In-house Trainers
+   -  /en/management                                                         Management
+   -  /en/marketing                                                          Marketing
+   -  /en/memory-and-cognitive-function-training                             Memory training
+   -  /en/job-metody                                                         On job metody
+   -  /en/production                                                         Production
+   -  /en/salle-skills                                                       Salle skills
+   -  /en/specialised-trainings                                              Specialised trainings
+   -  /management                                                            Čeština
+   -  /en/management                                                         English
+   -  /en                                                                    About us
+   -  /en/products-and-services                                              Products and Services
+   -  /en/measuring-efficiency-development                                   Measuring the efficiency
+   -  /en/references                                                         References
+   -  /en/contact                                                            Contact
+   -  https://twitter.com/mgcgroupcz                                         
+   -  http://www.garyfibiger.cz/                                             Gary Fibiger
+
+
